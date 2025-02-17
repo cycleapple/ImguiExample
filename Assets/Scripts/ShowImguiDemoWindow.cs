@@ -1,7 +1,7 @@
 using UImGui;
 using UnityEngine;
 
-public class ImGuiManager : MonoBehaviour
+public class ShowImguiDemoWindow : MonoBehaviour
 {
     private void OnEnable()
     {
